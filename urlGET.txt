@@ -1,0 +1,10 @@
+http://localhost:8090/ProyectoScada/insertPerson.php?CUI=201830459&namePerson=Eriksson&phone=57579925
+
+RFID CODE
+http://localhost:8090/ProyectoScada/insertRFID.php?code=50d8548q6d
+http://localhost:8090/ProyectoScada/insertRFID.php?code=2020
+http://localhost:8090/ProyectoScada/insertRFID.php?code=2021
+
+
+ASSIGN RFID CODE TO PERSON
+http://localhost:8090/ProyectoScada/assignRFID.php?code=2020&CUI=201830459
