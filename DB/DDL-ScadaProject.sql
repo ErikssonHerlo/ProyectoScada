@@ -47,6 +47,7 @@ CREATE TABLE IF NOT EXISTS `Scada_Project`.`assign_RFID` (
   `person_CUI` BIGINT NOT NULL,
   `date` DATE NULL,
   `shift` INT NULL,
+  `status` VARCHAR(45) NULL,
   PRIMARY KEY (`idassign_RFID`),
   INDEX `fk_assign_RFID_RFID_card_idx` (`RFID_card_RFID_code` ASC),
   INDEX `fk_assign_RFID_person1_idx` (`person_CUI` ASC),
