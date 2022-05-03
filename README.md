@@ -1,2 +1,2 @@
-#Proyecto Scada
-##Arquitectura de Computadores y Ensambladores 2
+# Proyecto Scada
+## Arquitectura de Computadores y Ensambladores 2
